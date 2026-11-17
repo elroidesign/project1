@@ -1,1 +1,3 @@
 Informasi dasar project pertama
+- planning
+- implementasi front end
